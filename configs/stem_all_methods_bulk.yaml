@@ -4,7 +4,7 @@ dataset:
   name: stem_h5
   path: data/raw/test_stem.h5
   patch_size: 8
-  reward: dipole
+  reward: bulk
   normalize_reward: true
 
 benchmark:
